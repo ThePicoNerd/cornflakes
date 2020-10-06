@@ -1,0 +1,452 @@
+[
+    {
+        "dishes": [
+            "c3f20787-368f-4240-b8cb-b95e98df6625",
+            "540513a8-3734-4df2-9023-ab28017b1d1e"
+        ],
+        "date": "2020-10-04",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "0fa1c2b5-6654-418c-a903-a27a015a997d",
+            "210ecda3-c5cb-439d-aa44-aaa4017b4ce3"
+        ],
+        "date": "2020-10-05",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "7084bcc7-78c7-45b0-b3bf-4e10f79905d9",
+            "20301f3e-e805-496d-9120-abd7017b8a9e"
+        ],
+        "date": "2020-10-06",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "d3f8e2db-3976-481d-b7c4-1629d6687c80",
+            "a24fb1a3-7df5-4b65-b6ef-1bd594852415"
+        ],
+        "date": "2020-10-07",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "c5a1340d-431e-4e82-a650-b82c82745fed",
+            "1df4982b-d747-4b98-9064-a22d015a2653"
+        ],
+        "date": "2020-10-08",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "ed2c52b6-7a06-4b27-878b-abd7017b888d",
+            "1e80150e-ddd7-446e-83d5-abd7017b896b"
+        ],
+        "date": "2020-10-11",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "2eda929e-bb59-47a4-95c4-ee3d6d5333f0",
+            "a2a0fd3e-ad4c-4933-ad8c-abd7017b8aed"
+        ],
+        "date": "2020-10-12",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "4df03571-de31-4fab-bd80-6b7eea9437df",
+            "ea9a1a9d-d96f-4731-927a-abd7017b8730"
+        ],
+        "date": "2020-10-13",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "e91e0513-6b05-48d8-a27f-a14d015a1c3c",
+            "b2a4693e-e1d5-4b6a-b495-2c1e6a2ccec9"
+        ],
+        "date": "2020-10-14",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "74f60b25-3915-4901-a8c7-abd7017b8adf",
+            "aa3e09b7-1cc5-401f-97b9-abd7017b88e2"
+        ],
+        "date": "2020-10-15",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "fd9cffc1-ead6-4569-82d4-4d97bd016a9f",
+            "0bcd90ed-b59c-4fcc-900e-a19a015a32f9"
+        ],
+        "date": "2020-10-18",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "a24fb1a3-7df5-4b65-b6ef-1bd594852415",
+            "8941fd1d-5d90-4503-9d7d-abd7017b8a8f"
+        ],
+        "date": "2020-10-19",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "e541983c-842e-409c-84ed-a832017c6ab2",
+            "a7d476de-6620-4d46-9808-a1e3015a1df4"
+        ],
+        "date": "2020-10-20",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "2e4a0bd5-49e6-4ce9-a919-5b4fc23872a4",
+            "552f826f-3f84-4c5c-b0be-ac0d017b1807"
+        ],
+        "date": "2020-10-21",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "ed681ac5-fa1f-43ed-8e9e-cb8bbd251202",
+            "eae59750-b480-4517-a4bb-abd7017b8bc8"
+        ],
+        "date": "2020-10-22",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "ff4aa159-9148-4310-bf56-ac0d017b163e",
+            "6937515b-2476-4f4e-b6eb-ac0d017b165f"
+        ],
+        "date": "2020-11-01",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "0fa1c2b5-6654-418c-a903-a27a015a997d",
+            "fb278348-ef4c-43bc-a455-abd7017b8b49"
+        ],
+        "date": "2020-11-02",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "505dc64f-5c76-4299-92ad-beaae18fe196",
+            "df4247b4-18e7-46a7-bb53-abd7017b88d4"
+        ],
+        "date": "2020-11-03",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "4df03571-de31-4fab-bd80-6b7eea9437df",
+            "aa18ade5-fddc-4428-b28d-abd7017b8b73"
+        ],
+        "date": "2020-11-04",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "c41b3f02-d254-4cb1-af23-d31c5031ce4a",
+            "f5dbe8b9-c32a-4122-b53b-abd7017b8a57"
+        ],
+        "date": "2020-11-05",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "93dfaeb9-81ef-48b0-8f33-abd7017b87d9",
+            "e8b1bb41-1820-490e-8bd9-aaa4017b4d4f"
+        ],
+        "date": "2020-11-08",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "6b92e26c-d9b5-44fb-9089-abd7017b8908",
+            "b2c07a7f-31ef-4eee-a31c-abd7017b87fb"
+        ],
+        "date": "2020-11-09",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "bac7efd0-37e0-4c3a-823a-a1e3015a1f62",
+            "6adea99d-1922-468d-aef9-abd7017b8a1a"
+        ],
+        "date": "2020-11-10",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "ed2c52b6-7a06-4b27-878b-abd7017b888d",
+            "2f97461a-309c-43cc-9303-a1eb015a2ec8"
+        ],
+        "date": "2020-11-11",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "c3f20787-368f-4240-b8cb-b95e98df6625",
+            "bfdb4e7e-a646-4c74-8392-abd7017b89a8"
+        ],
+        "date": "2020-11-12",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "353cf9ab-5dee-4dff-8e6f-7e25e06fc619",
+            "88369f24-900a-4786-a216-abd7017b894f"
+        ],
+        "date": "2020-11-15",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "dc706d86-358e-4588-af5e-fb6817590097",
+            "bea0bc73-7f19-40e9-ad8d-abd7017b86c8"
+        ],
+        "date": "2020-11-16",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "79ef4f3b-1aeb-4d46-82f0-abd7017b8a0b",
+            "ac92ebd1-8e21-40c9-8ce5-abd7017b89fd"
+        ],
+        "date": "2020-11-17",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "d61636fb-3044-4351-9d86-ac0d017b122c",
+            "aa18ade5-fddc-4428-b28d-abd7017b8b73"
+        ],
+        "date": "2020-11-18",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "180168ed-ba31-45e0-aa00-a78c017b614a",
+            "0d85ad9b-2956-4aa3-b97d-a221015a6468"
+        ],
+        "date": "2020-11-19",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "b7134447-d6fb-4566-8fec-a0b78081ce2a",
+            "d6eed6d4-ec39-411a-8a3e-abd7017b8b57"
+        ],
+        "date": "2020-11-22",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "e541983c-842e-409c-84ed-a832017c6ab2",
+            "33390224-8089-4a8d-b6de-abd7017b8ac8"
+        ],
+        "date": "2020-11-23",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "6d80da42-d91b-4785-8376-7cccd485f5b1",
+            "566752b0-12bd-4594-873b-abd7017b88c1"
+        ],
+        "date": "2020-11-24",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "a9e0b1f7-824e-420b-bd59-44d0f38a1cee",
+            "b0bed3fb-6ab7-4b21-b6cc-a3d800b857c5"
+        ],
+        "date": "2020-11-25",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "fb098d50-6235-4505-a004-aaa4017b5095",
+            "09f8e63b-5d6b-4e82-bd98-abd7017b8bfc"
+        ],
+        "date": "2020-11-26",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "f1480166-a10a-4530-a897-fb4eca52ec6a",
+            "5dccd85e-b2df-4f3a-b7a1-abd7017b8b0f"
+        ],
+        "date": "2020-11-29",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "1b6fb38f-b02a-4257-800e-abd7017b8929",
+            "7a89e4e2-ddf6-4add-bb54-abd7017b8bba"
+        ],
+        "date": "2020-11-30",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "e210c81f-0273-4086-a860-6cfcd475a5c9",
+            "c2494638-82af-4a61-a253-abd7017b8809"
+        ],
+        "date": "2020-12-01",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "e1546e42-2977-48b2-a5d4-a55600afd903",
+            "0e2cfce9-cabe-427f-864d-ab28017b1eb2"
+        ],
+        "date": "2020-12-02",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "6d80da42-d91b-4785-8376-7cccd485f5b1",
+            "0ac3fba5-49c7-43fe-b81e-abd7017b873e"
+        ],
+        "date": "2020-12-03",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "c3f20787-368f-4240-b8cb-b95e98df6625",
+            "540513a8-3734-4df2-9023-ab28017b1d1e"
+        ],
+        "date": "2020-12-06",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "0fa1c2b5-6654-418c-a903-a27a015a997d",
+            "210ecda3-c5cb-439d-aa44-aaa4017b4ce3"
+        ],
+        "date": "2020-12-07",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "7084bcc7-78c7-45b0-b3bf-4e10f79905d9",
+            "20301f3e-e805-496d-9120-abd7017b8a9e"
+        ],
+        "date": "2020-12-08",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "d3f8e2db-3976-481d-b7c4-1629d6687c80",
+            "bac7efd0-37e0-4c3a-823a-a1e3015a1f62"
+        ],
+        "date": "2020-12-09",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "c5a1340d-431e-4e82-a650-b82c82745fed",
+            "1df4982b-d747-4b98-9064-a22d015a2653"
+        ],
+        "date": "2020-12-10",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "00c36c96-a1cd-4ffe-8c90-d4c24e58a118",
+            "ee9b2525-2909-45c0-96a7-a22d015a3a8a"
+        ],
+        "date": "2020-12-13",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "dc706d86-358e-4588-af5e-fb6817590097",
+            "a2a0fd3e-ad4c-4933-ad8c-abd7017b8aed"
+        ],
+        "date": "2020-12-14",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "4df03571-de31-4fab-bd80-6b7eea9437df",
+            "1e80150e-ddd7-446e-83d5-abd7017b896b"
+        ],
+        "date": "2020-12-15",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "ed2c52b6-7a06-4b27-878b-abd7017b888d",
+            "ea9a1a9d-d96f-4731-927a-abd7017b8730"
+        ],
+        "date": "2020-12-16",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    },
+    {
+        "dishes": [
+            "e91e0513-6b05-48d8-a27f-a14d015a1c3c",
+            "b2a4693e-e1d5-4b6a-b495-2c1e6a2ccec9"
+        ],
+        "date": "2020-12-17",
+        "cornflakes": 0.0,
+        "lingon": 0.0
+    }
+]

@@ -1,0 +1,372 @@
+{
+    "2f97461a-309c-43cc-9303-a1eb015a2ec8": {
+        "title": "\u00c4rtsoppa och pannkaka med sylt",
+        "co2e": 0.24,
+        "id": "2f97461a-309c-43cc-9303-a1eb015a2ec8"
+    },
+    "2eda929e-bb59-47a4-95c4-ee3d6d5333f0": {
+        "title": "Gr\u00f6n wallenbergare med \u00e4rtor och r\u00e5r\u00f6rda lingon",
+        "co2e": 0.23,
+        "id": "2eda929e-bb59-47a4-95c4-ee3d6d5333f0"
+    },
+    "0e2cfce9-cabe-427f-864d-ab28017b1eb2": {
+        "title": "Spenat- och riccotafylld canneloni ",
+        "co2e": 0.26,
+        "id": "0e2cfce9-cabe-427f-864d-ab28017b1eb2"
+    },
+    "a24fb1a3-7df5-4b65-b6ef-1bd594852415": {
+        "title": "Frittata med spenat, Grana Padano och rostade solrosk\u00e4rnor",
+        "co2e": 0.3,
+        "id": "a24fb1a3-7df5-4b65-b6ef-1bd594852415"
+    },
+    "fd9cffc1-ead6-4569-82d4-4d97bd016a9f": {
+        "title": "Oklassisk Mif\u00fa Stroganoff med gr\u00f6nsaker, gr\u00f6nk\u00e5l och ris",
+        "co2e": 0.26,
+        "id": "fd9cffc1-ead6-4569-82d4-4d97bd016a9f"
+    },
+    "74f60b25-3915-4901-a8c7-abd7017b8adf": {
+        "title": "Gr\u00f6n tomat- och mif\u00fas\u00e5s med pasta ",
+        "co2e": 0.1,
+        "id": "74f60b25-3915-4901-a8c7-abd7017b8adf"
+    },
+    "6adea99d-1922-468d-aef9-abd7017b8a1a": {
+        "title": "Pasta Alfredo (kr\u00e4mig s\u00e5s med kyckling och ost) serveras med tomatsallad",
+        "co2e": 0.34,
+        "id": "6adea99d-1922-468d-aef9-abd7017b8a1a"
+    },
+    "505dc64f-5c76-4299-92ad-beaae18fe196": {
+        "title": "Pasta med tomat- och linss\u00e5s med basilika och Grana Padano",
+        "co2e": 0.14,
+        "id": "505dc64f-5c76-4299-92ad-beaae18fe196"
+    },
+    "fb278348-ef4c-43bc-a455-abd7017b8b49": {
+        "title": "Laxpudding med skirat sm\u00f6r, lingon och f\u00e4nk\u00e5lsallad",
+        "co2e": 0.41,
+        "id": "fb278348-ef4c-43bc-a455-abd7017b8b49"
+    },
+    "6b92e26c-d9b5-44fb-9089-abd7017b8908": {
+        "title": "K\u00e5lpudding med gr\u00f6na linser, kokt potatis och lingonsylt",
+        "co2e": 0.34,
+        "id": "6b92e26c-d9b5-44fb-9089-abd7017b8908"
+    },
+    "09f8e63b-5d6b-4e82-bd98-abd7017b8bfc": {
+        "title": "Bakad fl\u00e4skkarr\u00e9 med gr\u00e4dds\u00e5s, \u00e4ppelmos och kokt potatis",
+        "co2e": 0.94,
+        "id": "09f8e63b-5d6b-4e82-bd98-abd7017b8bfc"
+    },
+    "c3f20787-368f-4240-b8cb-b95e98df6625": {
+        "title": "Oumph shawarma med libabr\u00f6d, tabboulleh och vitl\u00f6ksdressing",
+        "co2e": 0.32,
+        "id": "c3f20787-368f-4240-b8cb-b95e98df6625"
+    },
+    "2e4a0bd5-49e6-4ce9-a919-5b4fc23872a4": {
+        "title": "Dhal - indisk linsgryta med basmatiris",
+        "co2e": 0.26,
+        "id": "2e4a0bd5-49e6-4ce9-a919-5b4fc23872a4"
+    },
+    "353cf9ab-5dee-4dff-8e6f-7e25e06fc619": {
+        "title": "Kr\u00e4mig b\u00f6ngulasch med gr\u00e4ddfil och tortillabr\u00f6d",
+        "co2e": 0.18,
+        "id": "353cf9ab-5dee-4dff-8e6f-7e25e06fc619"
+    },
+    "f1480166-a10a-4530-a897-fb4eca52ec6a": {
+        "title": "Tandoori med kokosgr\u00e4dde, broccoli, pulled Oumph och koriander serveras med ris",
+        "co2e": 0.18,
+        "id": "f1480166-a10a-4530-a897-fb4eca52ec6a"
+    },
+    "f5dbe8b9-c32a-4122-b53b-abd7017b8a57": {
+        "title": "Ugnsbakad kycklingfil\u00e9 med barbeques\u00e5s, rostad majs och rostad potatis",
+        "co2e": 0.38,
+        "id": "f5dbe8b9-c32a-4122-b53b-abd7017b8a57"
+    },
+    "a2a0fd3e-ad4c-4933-ad8c-abd7017b8aed": {
+        "title": "Fiskburgare med kokt potatis, picklad r\u00f6dl\u00f6k och dillmajo ",
+        "co2e": 0.55,
+        "id": "a2a0fd3e-ad4c-4933-ad8c-abd7017b8aed"
+    },
+    "eae59750-b480-4517-a4bb-abd7017b8bc8": {
+        "title": "Kyckling Tandoori med bulgur och Tandooriyoghurt ",
+        "co2e": 0.28,
+        "id": "eae59750-b480-4517-a4bb-abd7017b8bc8"
+    },
+    "ac92ebd1-8e21-40c9-8ce5-abd7017b89fd": {
+        "title": "Asiatisk kycklingburgare med klyftpotatis och rostade rotfrukter",
+        "co2e": 0.41,
+        "id": "ac92ebd1-8e21-40c9-8ce5-abd7017b89fd"
+    },
+    "0d85ad9b-2956-4aa3-b97d-a221015a6468": {
+        "title": "Tacobuff\u00e9 med klassiska tillbeh\u00f6r, salsa, gr\u00e4ddfil, ost, nachos, och ris",
+        "co2e": 3.19,
+        "id": "0d85ad9b-2956-4aa3-b97d-a221015a6468"
+    },
+    "1df4982b-d747-4b98-9064-a22d015a2653": {
+        "title": "Kokt wienerkorv med potatismos, gurkmajo, senap och ketchup",
+        "co2e": 0.95,
+        "id": "1df4982b-d747-4b98-9064-a22d015a2653"
+    },
+    "540513a8-3734-4df2-9023-ab28017b1d1e": {
+        "title": "Biff Stroganoff med ris",
+        "co2e": 2.95,
+        "id": "540513a8-3734-4df2-9023-ab28017b1d1e"
+    },
+    "bac7efd0-37e0-4c3a-823a-a1e3015a1f62": {
+        "title": "Pasta med broccoli- och osts\u00e5s",
+        "co2e": 0.45,
+        "id": "bac7efd0-37e0-4c3a-823a-a1e3015a1f62"
+    },
+    "180168ed-ba31-45e0-aa00-a78c017b614a": {
+        "title": "Tacobuff\u00e9 med sojaf\u00e4rs och klassiska tillbeh\u00f6r, salsa, gr\u00e4ddfil, ost, nachos, ris",
+        "co2e": 0.45,
+        "id": "180168ed-ba31-45e0-aa00-a78c017b614a"
+    },
+    "bea0bc73-7f19-40e9-ad8d-abd7017b86c8": {
+        "title": "Bouillabaisse med lax och kokt potatis",
+        "co2e": 0.41,
+        "id": "bea0bc73-7f19-40e9-ad8d-abd7017b86c8"
+    },
+    "ee9b2525-2909-45c0-96a7-a22d015a3a8a": {
+        "title": "Traditionell risgrynagr\u00f6t med kanel, mjukt br\u00f6d, skinka och senap",
+        "co2e": 0.56,
+        "id": "ee9b2525-2909-45c0-96a7-a22d015a3a8a"
+    },
+    "b2c07a7f-31ef-4eee-a31c-abd7017b87fb": {
+        "title": "Pankobakad fiskfil\u00e9 serveras med chili- och korianderris och sojadressing",
+        "co2e": 0.34,
+        "id": "b2c07a7f-31ef-4eee-a31c-abd7017b87fb"
+    },
+    "df4247b4-18e7-46a7-bb53-abd7017b88d4": {
+        "title": "K\u00f6ttf\u00e4rss\u00e5s och spaghetti ",
+        "co2e": 2.02,
+        "id": "df4247b4-18e7-46a7-bb53-abd7017b88d4"
+    },
+    "7a89e4e2-ddf6-4add-bb54-abd7017b8bba": {
+        "title": "Fiskgrat\u00e4ng med hummers\u00e5s och r\u00e4kor, potatismos",
+        "co2e": 0.74,
+        "id": "7a89e4e2-ddf6-4add-bb54-abd7017b8bba"
+    },
+    "d3f8e2db-3976-481d-b7c4-1629d6687c80": {
+        "title": "Gr\u00f6nburgare i grovbr\u00f6d, rostade rotfrukter, pesto och tomatsymfoni",
+        "co2e": 0.16,
+        "id": "d3f8e2db-3976-481d-b7c4-1629d6687c80"
+    },
+    "0bcd90ed-b59c-4fcc-900e-a19a015a32f9": {
+        "title": "Korv Stroganoff med ris",
+        "co2e": 0.53,
+        "id": "0bcd90ed-b59c-4fcc-900e-a19a015a32f9"
+    },
+    "b7134447-d6fb-4566-8fec-a0b78081ce2a": {
+        "title": "Indiska linsnuggets i libabr\u00f6d med raita och sallad",
+        "co2e": 0.35,
+        "id": "b7134447-d6fb-4566-8fec-a0b78081ce2a"
+    },
+    "7084bcc7-78c7-45b0-b3bf-4e10f79905d9": {
+        "title": "Tacos med rostad blomk\u00e5l och r\u00f6kig b\u00f6nsalsa",
+        "co2e": 0.33,
+        "id": "7084bcc7-78c7-45b0-b3bf-4e10f79905d9"
+    },
+    "e91e0513-6b05-48d8-a27f-a14d015a1c3c": {
+        "title": "Gratinerad pastagrat\u00e4ng med tomat och mozzarella",
+        "co2e": 0.43,
+        "id": "e91e0513-6b05-48d8-a27f-a14d015a1c3c"
+    },
+    "aa3e09b7-1cc5-401f-97b9-abd7017b88e2": {
+        "title": "Tomat- och kycklings\u00e5s med pasta",
+        "co2e": 0.26,
+        "id": "aa3e09b7-1cc5-401f-97b9-abd7017b88e2"
+    },
+    "33390224-8089-4a8d-b6de-abd7017b8ac8": {
+        "title": "Pasta med kr\u00e4mig lax- och spenats\u00e5s",
+        "co2e": 0.28,
+        "id": "33390224-8089-4a8d-b6de-abd7017b8ac8"
+    },
+    "79ef4f3b-1aeb-4d46-82f0-abd7017b8a0b": {
+        "title": "R\u00f6dbets- och fetaostbiff med picklad r\u00f6dl\u00f6k samt tabbouleh",
+        "co2e": 0.31,
+        "id": "79ef4f3b-1aeb-4d46-82f0-abd7017b8a0b"
+    },
+    "88369f24-900a-4786-a216-abd7017b894f": {
+        "title": "Pannbiff med gr\u00e4dds\u00e5s, kokt potatis och lingonsylt ",
+        "co2e": 2.6,
+        "id": "88369f24-900a-4786-a216-abd7017b894f"
+    },
+    "566752b0-12bd-4594-873b-abd7017b88c1": {
+        "title": "Pulled chicken med barbeques\u00e5s, ris, tortilla, rostad majs, gr\u00e4ddfil",
+        "co2e": 0.56,
+        "id": "566752b0-12bd-4594-873b-abd7017b88c1"
+    },
+    "a9e0b1f7-824e-420b-bd59-44d0f38a1cee": {
+        "title": "Broccolifritters med rostad potatis, picklad r\u00f6dl\u00f6k och vegansk chilimajonn\u00e4s",
+        "co2e": 0.33,
+        "id": "a9e0b1f7-824e-420b-bd59-44d0f38a1cee"
+    },
+    "bfdb4e7e-a646-4c74-8392-abd7017b89a8": {
+        "title": "Kyckling shawarma med libabr\u00f6d, tabbouleh och vitl\u00f6ksdressing",
+        "co2e": 0.5,
+        "id": "bfdb4e7e-a646-4c74-8392-abd7017b89a8"
+    },
+    "d6eed6d4-ec39-411a-8a3e-abd7017b8b57": {
+        "title": "Kycklingk\u00f6ttbullar med tomats\u00e5s och potatismos",
+        "co2e": 0.26,
+        "id": "d6eed6d4-ec39-411a-8a3e-abd7017b8b57"
+    },
+    "e1546e42-2977-48b2-a5d4-a55600afd903": {
+        "title": "Tomatsoppa med pasta och pannkaka med sylt",
+        "co2e": 0.3,
+        "id": "e1546e42-2977-48b2-a5d4-a55600afd903"
+    },
+    "aa18ade5-fddc-4428-b28d-abd7017b8b73": {
+        "title": "Broccolisoppa med rostade linser, mjukt br\u00f6d och ost ",
+        "co2e": 0.49,
+        "id": "aa18ade5-fddc-4428-b28d-abd7017b8b73"
+    },
+    "1e80150e-ddd7-446e-83d5-abd7017b896b": {
+        "title": "Kyckling i curry med basmatiris",
+        "co2e": 0.54,
+        "id": "1e80150e-ddd7-446e-83d5-abd7017b896b"
+    },
+    "20301f3e-e805-496d-9120-abd7017b8a9e": {
+        "title": "Texas Chili med gr\u00e4ddfil, picklad r\u00f6dl\u00f6k och bulgur",
+        "co2e": 3.26,
+        "id": "20301f3e-e805-496d-9120-abd7017b8a9e"
+    },
+    "e541983c-842e-409c-84ed-a832017c6ab2": {
+        "title": "Pasta med tomat- och linss\u00e5s ",
+        "co2e": 0.13,
+        "id": "e541983c-842e-409c-84ed-a832017c6ab2"
+    },
+    "93dfaeb9-81ef-48b0-8f33-abd7017b87d9": {
+        "title": "Spenat- och fetaostlasagne med tomat- och linssallad",
+        "co2e": 0.66,
+        "id": "93dfaeb9-81ef-48b0-8f33-abd7017b87d9"
+    },
+    "ed681ac5-fa1f-43ed-8e9e-cb8bbd251202": {
+        "title": "Gr\u00f6n burgare med smak av rotfrukter och chilikr\u00e4m samt rostade mor\u00f6tter",
+        "co2e": 0.14,
+        "id": "ed681ac5-fa1f-43ed-8e9e-cb8bbd251202"
+    },
+    "e8b1bb41-1820-490e-8bd9-aaa4017b4d4f": {
+        "title": "K\u00f6ttgryta Stifado (grekisk gryta med smaker av kanel och kryddnejlika) servera med kokt potatis ",
+        "co2e": 3.38,
+        "id": "e8b1bb41-1820-490e-8bd9-aaa4017b4d4f"
+    },
+    "dc706d86-358e-4588-af5e-fb6817590097": {
+        "title": "Falafel smaksatt med dill och citron samt gr\u00f6nk\u00e5l och \u00e4ppelsallad, bulgur",
+        "co2e": 0.12,
+        "id": "dc706d86-358e-4588-af5e-fb6817590097"
+    },
+    "d61636fb-3044-4351-9d86-ac0d017b122c": {
+        "title": "Italiensk pastagrat\u00e4ng med tomat och mozzarella",
+        "co2e": 0.43,
+        "id": "d61636fb-3044-4351-9d86-ac0d017b122c"
+    },
+    "ea9a1a9d-d96f-4731-927a-abd7017b8730": {
+        "title": "Chili con carne med gr\u00e4ddfil, picklad l\u00f6k och bulgur",
+        "co2e": 1.44,
+        "id": "ea9a1a9d-d96f-4731-927a-abd7017b8730"
+    },
+    "0fa1c2b5-6654-418c-a903-a27a015a997d": {
+        "title": "Potatisbullar med  lingonsylt och keso",
+        "co2e": 0.28,
+        "id": "0fa1c2b5-6654-418c-a903-a27a015a997d"
+    },
+    "6d80da42-d91b-4785-8376-7cccd485f5b1": {
+        "title": "Bao bun med pulled vego och gr\u00f6nsaker",
+        "co2e": 0.13,
+        "id": "6d80da42-d91b-4785-8376-7cccd485f5b1"
+    },
+    "b0bed3fb-6ab7-4b21-b6cc-a3d800b857c5": {
+        "title": "Palak panir - f\u00e4rskost med spenat p\u00e5 indiskt vis med ris",
+        "co2e": 0.88,
+        "id": "b0bed3fb-6ab7-4b21-b6cc-a3d800b857c5"
+    },
+    "fb098d50-6235-4505-a004-aaa4017b5095": {
+        "title": "Palsternacksbiff med kokt potatis, gr\u00e4dds\u00e5s och \u00e4ppelmos",
+        "co2e": 0.19,
+        "id": "fb098d50-6235-4505-a004-aaa4017b5095"
+    },
+    "8941fd1d-5d90-4503-9d7d-abd7017b8a8f": {
+        "title": "Ugnsbakad fiskfil\u00e9 med kokt potatis och vitvinss\u00e5s",
+        "co2e": 0.45,
+        "id": "8941fd1d-5d90-4503-9d7d-abd7017b8a8f"
+    },
+    "5dccd85e-b2df-4f3a-b7a1-abd7017b8b0f": {
+        "title": "Kyckling i r\u00f6d curry med kokos och basmatiris",
+        "co2e": 0.57,
+        "id": "5dccd85e-b2df-4f3a-b7a1-abd7017b8b0f"
+    },
+    "a7d476de-6620-4d46-9808-a1e3015a1df4": {
+        "title": "Pasta Carbonara med bacon",
+        "co2e": 0.72,
+        "id": "a7d476de-6620-4d46-9808-a1e3015a1df4"
+    },
+    "e210c81f-0273-4086-a860-6cfcd475a5c9": {
+        "title": "Gr\u00f6nlimpa med vegof\u00e4rs, gr\u00e4dds\u00e5s, r\u00e5r\u00f6rda lingon, kokt potatis och pressgurka",
+        "co2e": 0.26,
+        "id": "e210c81f-0273-4086-a860-6cfcd475a5c9"
+    },
+    "0ac3fba5-49c7-43fe-b81e-abd7017b873e": {
+        "title": "Grekiska f\u00e4rsbiffar med tzatziki och gr\u00f6nsaksbulgur",
+        "co2e": 1.55,
+        "id": "0ac3fba5-49c7-43fe-b81e-abd7017b873e"
+    },
+    "6937515b-2476-4f4e-b6eb-ac0d017b165f": {
+        "title": "Fullkornsbulgur med chorizo och salsa",
+        "co2e": 1.19,
+        "id": "6937515b-2476-4f4e-b6eb-ac0d017b165f"
+    },
+    "ed2c52b6-7a06-4b27-878b-abd7017b888d": {
+        "title": "Chili sin carne med gr\u00e4ddfil, picklad r\u00f6dl\u00f6k och bulgur",
+        "co2e": 0.23,
+        "id": "ed2c52b6-7a06-4b27-878b-abd7017b888d"
+    },
+    "c5a1340d-431e-4e82-a650-b82c82745fed": {
+        "title": "Vegokorv med potatismos, gurkmajo, senap och ketchup",
+        "co2e": 0.24,
+        "id": "c5a1340d-431e-4e82-a650-b82c82745fed"
+    },
+    "ff4aa159-9148-4310-bf56-ac0d017b163e": {
+        "title": "Fullkornsbulgur med linsbiffar, salsa och ramsl\u00f6ksmajo",
+        "co2e": 0.12,
+        "id": "ff4aa159-9148-4310-bf56-ac0d017b163e"
+    },
+    "1b6fb38f-b02a-4257-800e-abd7017b8929": {
+        "title": "Kik\u00e4rtsbiffar serveras med basilikacreme samt couscous",
+        "co2e": 0.26,
+        "id": "1b6fb38f-b02a-4257-800e-abd7017b8929"
+    },
+    "210ecda3-c5cb-439d-aa44-aaa4017b4ce3": {
+        "title": "Stekt str\u00f6mming(sillflundra) serveras med potatismos, skirat sm\u00f6r och r\u00e5r\u00f6rda lingon",
+        "co2e": 0.13,
+        "id": "210ecda3-c5cb-439d-aa44-aaa4017b4ce3"
+    },
+    "552f826f-3f84-4c5c-b0be-ac0d017b1807": {
+        "title": "Sl\u00e4t pumpasoppa med ingef\u00e4ra och chili serveras med mjukt br\u00f6d och f\u00e4rskost",
+        "co2e": 0.28,
+        "id": "552f826f-3f84-4c5c-b0be-ac0d017b1807"
+    },
+    "c2494638-82af-4a61-a253-abd7017b8809": {
+        "title": "K\u00f6ttf\u00e4rss\u00e5s och spaghetti (med r\u00f6da linser)",
+        "co2e": 1.64,
+        "id": "c2494638-82af-4a61-a253-abd7017b8809"
+    },
+    "00c36c96-a1cd-4ffe-8c90-d4c24e58a118": {
+        "title": "Nudelsoppa med champinjon, miso, chili och limeblad",
+        "co2e": 0.11,
+        "id": "00c36c96-a1cd-4ffe-8c90-d4c24e58a118"
+    },
+    "4df03571-de31-4fab-bd80-6b7eea9437df": {
+        "title": "Blomk\u00e5lscurry med ris och asiatisk sallad",
+        "co2e": 0.25,
+        "id": "4df03571-de31-4fab-bd80-6b7eea9437df"
+    },
+    "b2a4693e-e1d5-4b6a-b495-2c1e6a2ccec9": {
+        "title": "Zucchinifritters (zucchinipl\u00e4ttar) smaksatt med keso och \u00f6rter - couscous",
+        "co2e": 0.17,
+        "id": "b2a4693e-e1d5-4b6a-b495-2c1e6a2ccec9"
+    },
+    "c41b3f02-d254-4cb1-af23-d31c5031ce4a": {
+        "title": "Tortilla med gr\u00f6nsaker och ost, tomat och chili (Gr\u00f6nsakswok med tortilla)",
+        "co2e": 0.28,
+        "id": "c41b3f02-d254-4cb1-af23-d31c5031ce4a"
+    }
+}
