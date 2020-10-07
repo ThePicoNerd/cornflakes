@@ -3,6 +3,7 @@ import datetime
 import requests
 import json
 import csv
+from dateutil.tz import tzutc, tzlocal
 
 
 class Dish:
@@ -70,7 +71,8 @@ class Day:
     @staticmethod
     def from_api(data):
         dish_ids = list(map(lambda dish: dish["id"], data["dishes"]))
-        date = datetime.datetime.strptime(data["date"], "%Y-%m-%dT%H:%M:%S%z")
+
+        date = datetime.datetime.strptime(data["date"], "%Y-%m-%dT%H:%M:%S%z").astimezone(tzlocal())
 
         return Day(dish_ids, date)
 
@@ -84,7 +86,7 @@ class Day:
 
 
 class Dataset:
-    days: List[Day] = []
+    days: List[Day]
     dishes: Dict[str, Dish]
 
     def __init__(self, days: List[Day], dishes: List[Dish]):
@@ -142,6 +144,11 @@ class Dataset:
         days = Dataset.load_days()
 
         return Dataset(days, dishes)
+
+    def past_days(self):
+        now = datetime.datetime.now()
+
+        return list(filter(lambda day: now > day.date, self.days))
 
 
 def main():
