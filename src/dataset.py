@@ -3,6 +3,7 @@ import datetime
 import requests
 import json
 import csv
+from dateutil.tz import tzutc, tzlocal
 
 
 class Dish:
@@ -33,6 +34,10 @@ class Dish:
 
         return list(map(Dish.from_api, r.json()))
 
+    @staticmethod
+    def parse(data):
+        return Dish(data["title"], data["co2e"], data["id"])
+
 
 class Day:
     dishes: List[str] = []
@@ -51,17 +56,23 @@ class Day:
         return self.date.weekday()
 
     def serialize(self):
-      return {
-        "dishes": self.dishes,
-        "date": self.date.strftime("%Y-%m-%d"),
-        "cornflakes": self.cornflakes,
-        "lingon": self.lingon
-      }
+        return {
+            "dishes": self.dishes,
+            "date": self.date.strftime("%Y-%m-%d"),
+            "cornflakes": self.cornflakes,
+            "lingon": self.lingon
+        }
+
+    @staticmethod
+    def parse(data):
+        return Day(data["dishes"], datetime.datetime.strptime(
+            data["date"], "%Y-%m-%d"), data["cornflakes"], data["lingon"])
 
     @staticmethod
     def from_api(data):
         dish_ids = list(map(lambda dish: dish["id"], data["dishes"]))
-        date = datetime.datetime.strptime(data["date"], "%Y-%m-%dT%H:%M:%S%z")
+
+        date = datetime.datetime.strptime(data["date"], "%Y-%m-%dT%H:%M:%S%z").astimezone(tzlocal())
 
         return Day(dish_ids, date)
 
@@ -75,7 +86,7 @@ class Day:
 
 
 class Dataset:
-    days: List[Day] = []
+    days: List[Day]
     dishes: Dict[str, Dish]
 
     def __init__(self, days: List[Day], dishes: List[Dish]):
@@ -90,28 +101,55 @@ class Dataset:
         return Dataset(days, dishes)
 
     def save_dishes(self):
-      file = "dishes.json"
+        file = "dishes.json"
 
-      with open(file, "w") as f:
-        data = dict((k, v.__dict__) for (k, v) in self.dishes.items())
+        with open(file, "w") as f:
+            data = dict((k, v.__dict__) for (k, v) in self.dishes.items())
 
-        json.dump(data, f, indent=4)
+            json.dump(data, f, indent=4)
 
-        print("Saved dishes to {}".format(file))
+            print("Saved dishes to {}".format(file))
 
     def save_days(self):
-      file = "days.json"
-      
-      with open(file, "w") as f:
-        data = [day.serialize() for day in self.days]
+        file = "days.json"
 
-        json.dump(data, f, indent=4)
+        with open(file, "w") as f:
+            data = [day.serialize() for day in self.days]
 
-        print("Saved days to {}".format(file))
+            json.dump(data, f, indent=4)
+
+            print("Saved days to {}".format(file))
 
     def save(self):
-      self.save_dishes()
-      self.save_days()
+        self.save_dishes()
+        self.save_days()
+
+    @staticmethod
+    def load_dishes():
+        with open("dishes.json") as f:
+            data = json.load(f)
+
+            return list(Dish.parse(dish) for (_, dish) in data.items())
+
+    @staticmethod
+    def load_days():
+        with open("days.json") as f:
+            data = json.load(f)
+
+            return list(Day.parse(day) for day in data)
+
+    @staticmethod
+    def load():
+        dishes = Dataset.load_dishes()
+        days = Dataset.load_days()
+
+        return Dataset(days, dishes)
+
+    def past_days(self):
+        now = datetime.datetime.now()
+
+        return list(filter(lambda day: now > day.date, self.days))
+
 
 def main():
     dataset = Dataset.download()
