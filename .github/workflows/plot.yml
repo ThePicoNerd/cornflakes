@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "30 12 * * *" # 12:30 UTC equals 13:30 CET
 
+  push:
+
 jobs:
   plot:
     runs-on: ubuntu-latest
