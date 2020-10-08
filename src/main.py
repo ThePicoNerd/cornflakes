@@ -2,6 +2,7 @@ from dataset import Dataset
 from matplotlib import style
 import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.ticker as mtick
 
 style.use("ggplot")
 
@@ -33,14 +34,17 @@ def main():
     def scatter_with_linear_regression(y, label, marker, color):
         ax.scatter(x, y, label=label, marker=marker, c=color)
         m, b = np.polyfit(x, y, 1)
-        plt.plot(x, m * x + b, c=color, linestyle="dotted")
+        plt.plot(x, m * x + b, c=color, linestyle=":", linewidth=1, alpha=0.5)
 
     scatter_with_linear_regression(cornflakes, "Cornflakes", "s", "b")
     scatter_with_linear_regression(lingon, "Lingon", "x", "r")
 
+    ax.yaxis.set_major_formatter(
+        mtick.FuncFormatter(lambda y, _: '{:.0%}'.format(y)))
+
     plt.legend()
 
-    plt.show()
+    plt.savefig("plot.png")
 
 
 if __name__ == "__main__":

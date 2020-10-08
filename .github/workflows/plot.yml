@@ -1,0 +1,22 @@
+name: Plot
+
+on:
+  schedule:
+    - cron: "30 12 * * *" # 12:30 UTC equals 13:30 CET
+
+jobs:
+  plot:
+    runs-on: ubuntu-latest
+    name: Plot data
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - run: python src/main.py
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: plot
+          path: plot.png
